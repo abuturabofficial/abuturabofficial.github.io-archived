@@ -14,7 +14,7 @@ timezone: Asia/Karachi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CyberFront # the main title
+title: AbuTurab # the main title
 
 tagline: A newbie's perspective to the WWW. # it will display as the sub-title
 
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sajid Mahmood
+  name: CyberFront
   email: cyberfrontofficial@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/abuturabofficial
-    - https://twitter.com/abuturabofficial # change to your twitter homepage
-    - https://github.com/abuturabofcl # change to your github homepage
-    # Uncomment below to add more social links
     - https://mastodon.social/@abuturab
+    - https://github.com/abuturabofficial # change to your github homepage
+    # Uncomment below to add more social links
+    - https://twitter.com/abuturabofcl # change to your twitter homepage
 
 google_site_verification: # fill in to your verification string
 
