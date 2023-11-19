@@ -16,11 +16,10 @@ timezone: Asia/Karachi
 
 title: AbuTurab # the main title
 
-tagline: A newbie's perspective to the WWW. # it will display as the sub-title
+tagline: A newbie's perspective to the WWW 🌐. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  CyberFront is about sharing knowledge and learning along the way about network, IT, Cybersecurity and Cloud. So, let's the learning begin.
-
+  🚀 Welcome to CyberFront, where the tech vibes are as cool as the cloud! 🌐 Geek out with us on network, IT, cybersecurity, and cloud adventures. 🚀 Let the learning fiesta begin! 🎉 #TechFun #CyberWonders
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://abuturabofficial.github.io"
