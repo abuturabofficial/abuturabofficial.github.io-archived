@@ -30,11 +30,11 @@ platforms:
   #   instances:
   - label: mastodon.social
     link: "https://mastodon.social/"
-  - label: infosec.exchange
-    link: "https://infosec.exchange/"
   - label: mastodon.online
     link: "https://mastodon.online/"
   - label: fosstodon.org
     link: "https://fosstodon.org/"
   - label: photog.social
     link: "https://photog.social/"
+  - label: infosec.exchange
+    link: "https://infosec.exchange/"
