@@ -10,6 +10,8 @@ image:
   alt: PicoCTF Logo
 ---
 
+Sleuthkit Apprentice Challenge is about doing forensic analysis of disk images and finding the useful and juicy information about the target.
+
 ## Necessary Information[^1] Before Starting the Challenge
 
 - Disk image is a huge dump of many numbers
@@ -43,6 +45,7 @@ The four layers of disk images are:
 ## The Walkthrough
 
 The Challenge[^2] require us to download the disk image, decompress, and then find the `flag` by looking at different layers of the `.img`.
+
 ### Login to the WebShell
 
 Login to the picoCTF [WebShell](https://webshell.picoctf.org/) or you can use your own VM. In my case, I will use the picoCTF WebShell.
@@ -56,7 +59,7 @@ Check if the `.IMG` file has been downloaded into your `tmp` DIR, use `ls` comma
 wget https://artifacts.picoctf.net/c/137/disk.flag.img.gz
 ```
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-1.png)
+![Wget command](2023-09-28-Sleuthkit-Apprentice-Walkthrough-1.png)
 
 ### Decompress the File
 
@@ -68,7 +71,7 @@ gunzip disk.flag.img.gz
 
 After this, we will get uncompressed disk image `disk.flag.img`, the `gunzip` will automatically delete the uncompressed `.gz` file.
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-2.png)
+![Decompress the file](2023-09-28-Sleuthkit-Apprentice-Walkthrough-2.png)
 
 ### Using `fls` to List the Partition Content
 
@@ -78,7 +81,7 @@ We will use `mmls` tool, to see the partition tables, and find the OFFSET value.
 mmls disk.flag.img
 ```
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-3.png)
+![Using fls to List the Partition Content](2023-09-28-Sleuthkit-Apprentice-Walkthrough-3.png)
 
 As in the screenshot `label#2` it looks like the largest partition, and it’s labeled as `0x83` for Linux, it’s a bit of a guess, but we can list its content by using the `Start` OFFSET value supplied into `fls` tool.
 
@@ -88,7 +91,7 @@ Lets to be sure, check the content of `partition#003` by supplying the OFFSET va
 fls -o 206848 disk.flag.img
 ```
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-5.png)
+![fls partition 003](2023-09-28-Sleuthkit-Apprentice-Walkthrough-5.png)
 
 As it throws error, we will move on to the next partition.
 
@@ -100,7 +103,7 @@ Now let's check the contents of the largest partition `#004`:
 fls -o 360448 disk.flag.img
 ```
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-4.png)
+![fls partition 004](2023-09-28-Sleuthkit-Apprentice-Walkthrough-4.png)
 
 Now we will look at the contents of each dir, to do this we will again use the `fls` command.
 
@@ -121,7 +124,7 @@ fls -o 360448 disk.flag.img 1995
 > We need to make smart decisions about which directory to look at first, to avoid wasting time. Please read about Linux directory structure to know more about which directory contains what.
 {: .prompt-tip}
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-6.png)
+![fls root dir](2023-09-28-Sleuthkit-Apprentice-Walkthrough-6.png)
 
 There might be some juicy stuff in the `root` dir, so let’s investigate further. Lets look into `myfolder`:
 
@@ -131,7 +134,7 @@ fls -o 360448 disk.flag.img 2363
 
 I think, we got our flag:
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-7.png)
+![fls myfolder dir](2023-09-28-Sleuthkit-Apprentice-Walkthrough-7.png)
 
 We can see the `flag.txt` file in the `my_folder` dir. We need to look at the content of this file to find out our flag.
 
@@ -147,7 +150,7 @@ Voilà, we got our flag:
 picoCTF{by73_5urf3r_adac6cb4}
 ```
 
-![](2023-09-28-Sleuthkit-Apprentice-Walkthrough-8.png)
+![icat on flat.txt inode](2023-09-28-Sleuthkit-Apprentice-Walkthrough-8.png)
 
 Paste the flag in the picoCTF `flag box`, and you’re done. Now take a deep breath and have a moment to enjoy your achievement.
 
