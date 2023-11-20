@@ -46,25 +46,19 @@ Following are some proprietary Password Managers, we won’t discuss them in det
 
 LastPass offers freemium services, with limited access to the features for their free tier users, but offer great deal of services to the premium members. It is a bit costly compared to what we have in free as well in the form of Padloc or Bitwarden. A [critical vulnerability](https://www.zdnet.com/article/lastpass-bug-leaks-credentials-from-previous-site/) was reported in 2019. According to [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/04/10/what-happened-when-the-dea-demanded-passwords-from-lastpass/?sh=7b25ed387ebe), Drug Enforcement Administration(DEA) demand to access a criminal password record was rejected by LastPass due to zero knowledge encryption in place for customers.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="lastpass.png" /><a href="  https://www.lastpass.com/">LastPass.com</a>
-</div></center>
+![LastPass Logo](lastpass.png){: w="225" h="225"}
 
 ### 4.2) 1Password:
 
 1Password do use some FOSS software for their services, but their app itself is proprietary. They have only premium version with limited trial period. Their premium version is also a bit costly. A plus point for them is their positive attitude and support about Open Source.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="1password.jpeg" /><a href="  https://1password.com/">1Password.com</a>
-</div></center>
+![1Password Logo](1password.jpeg){: w="225" h="225"}
 
 ### 4.3) Dashlane:
 
 Dashlane offers a limited free version with app support for all major OSes. The negative for me is lack of Linux client. The premium version is also a bit costlier than other proprietary premium offerings discussed above. It also doesn't offer password sync for free tier users.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="dashlane.png" /><a href="  https://www.dashlane.com/">Dashlane.com</a>
-</div></center>
+![Dashlane Logo](dashlane.png){: w="225" h="225"}
 
 ## 5) FOSS Password Managers
 
@@ -74,25 +68,19 @@ Following are some Open Source offerings:
 
 It is primarily designed for Windows, but KeePassX can run on Linux as well. It is an offline Password Manager that can also be run from a USB stick. Some unofficial clients are also available for almost every Operating System. If you like minimalist Program with GNU philosophy of doing one thing great, you can consider this option.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="keepass.jpeg" /><a href="  https://keepass.info/">KeePass.Info</a>
-</div></center>
+![KeepassX Logo](keepass.jpeg){: w="225" h="225"}
 
 ### 5.2) Padloc:
 
-Padloc is relatively a new entry in the Password Managers realm. It offers clients for all, almost every OS. It offers cloud-based services. Furthermore, it as a freemium model. Depending on your needs, you can choose either of them. Its free offering includes the ability to save up to 50 passwords to sync up-to 2 devices, but premium version offers unlimited password storage with 1 GB encrypted file storage and synchronization across multiple devices.
+Padloc is relatively a new entry in the Password Managers realm. It offers clients for all, almost every OS. It offers cloud-based services. Furthermore, it as a freemium model. Depending on your needs, you can choose either of them. Its free offering includes the ability to save up to 50 passwords to sync up-to 2 devices, but the premium version offers unlimited password storage with 1 GB encrypted file storage and synchronization across multiple devices.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="padlock.png" /><a href="  https://padloc.app/">Padloc.App</a>
-</div></center>
+![Padloc Logo](padlock.png){: w="225" h="225"}
 
 ### 5.3) Bitwarden:
 
 Bitwarden is my favorite with plethora of features. Its free version offers almost everything, except TOTP and encrypted file sharing, and security reports etc. But the amazing thing is, its premium version is also dirt-cheap for $10 per year. We discuss Bitwarden in details in the later part of the blog.
 
-<center><div style="max-width:119px; max-height:119px">
-  <img src="bitwarden.png" /><a href="  https://bitwarden.com/">BitWarden.com</a>
-</div></center>
+![Bitwarden Logo](bitwarden.png){: w="225" h="225"}
 
 ### 5.4) Some honorable mentions:
 
