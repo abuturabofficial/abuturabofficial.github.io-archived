@@ -8,7 +8,7 @@ category: Linux
 image:
   path: fedora.jpeg
   alt: Fedora Linux Logo
-published: true
+published: false
 ---
 My Fedora journey started with their Workstation edition. Their vanilla Gnome experience in the beginning got me hooked to them.
 
