@@ -28,9 +28,7 @@ Before moving towards the topic of making our passwords strong, first let’s di
 
 A 12 character password consisting only of digits can be hacked in less than 25 seconds.
 
-<center><p style="max-width:800px; max-height:600px">
-  <img src="25sec.png" /><a href="https://www.security.org/how-secure-is-my-password">Security.org</a>
-</p></center>
+![25 Seconds to Break a Password](25sec.png)
 
 ## How to check your Password Strength?
 
@@ -79,9 +77,7 @@ A passphrase would be like: **Monkey-Laptop-Car-Driving**
 
 It would take a computer approximately 3 octillion years to crack this memorable passphrase.
 
-<center><p style="max-width:800px; max-height:600px">
-  <img src="years_sec.png" /><a href="https://www.security.org/how-secure-is-my-password">Security.org</a>
-</p></center>
+![Strong Breaks in Years of computing](years_sec.png)
 
 ## Tips for Keeping your Passwords & Passphrases Safe
 
@@ -101,17 +97,19 @@ For keeping your accounts free from hackers and information leakage, apply the t
 
 Relying on human skills to generate good passwords or passphrases with above-mentioned qualities is not recommended, as we tend to undermine the risks and show laziness for protecting our online identities. Thus, you should use password and passphrase generators which make sure with the available switches that they have all the features of a good hygiene.
 
+To generate passphrases & passwords online:
+
+1) <https://useapassphrase.com>
+
+2) <https://passwordsgenerator.net>
+
 ### For password generation, use an online tool like this:
 
-<center><p style="max-width:800px; max-height:600px">
-  <img src="passphrase.png" /><a href="https://useapassphrase.com">Passphrase Generator</a>
-</p></center>
+![Passphrase creation online](passphrase.png)
 
 ### For Passphrases, use a tool like this:
 
-<center><p style="max-width:800px; max-height:600px">
-  <img src="password.png" /><a href="https://passwordsgenerator.net">Password Generator</a>
-</p></center>
+![Passwordsgenerator.net](password.png){: w="760" h="462"}
 
 ## Closing Thoughts
 
