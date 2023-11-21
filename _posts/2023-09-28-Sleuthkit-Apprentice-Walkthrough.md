@@ -12,37 +12,37 @@ image:
 
 Sleuthkit Apprentice Challenge is about doing forensic analysis of disk images and finding the useful and juicy information about the target.
 
-## Necessary Information[^1] Before Starting the Challenge
+## **Necessary Information[^1] Before Starting the Challenge**
 
 - Disk image is a huge dump of many numbers
 - Those numbers have invisible structures
 - Sleuthkit makes navigating those structures much easier
 
-The four layers of disk images are:
+**The four layers of disk images are:**
 
-### 1) **media**
+### 1. media
 - `mmls` is a media layer tool, gives partition table and key info for delving into other layers
 - Media is the lowest level, providing key information to access the deeper layers, but not shedding much light on the data contained in the image
 
-### 2) **Block**
+### 2. Block
 - 2nd lowest layer
 - Block layer tools are prepended with `blk` in the Sleuthkit.
 - `blkcat` Tool that outputs the contents of a single block.
 - The block layer is the number of the disk image broken into equal-sized chunks.
 - A single file may contain multiple blocks.
 
-### 3) **Inode**
+### 3. Inode
 - Bookkeeping layer, like a table of contents with chapter numbers being like the inodes, and the pages like the blocks of a file
 - Inode layer tools are prepended with `i`
 - `icat` is a tool that outputs a single file based on its inode number
 
-### 4) **Filename**
+### 4. Filename
 - The layer that the most users see and interact with
 - Interacting with file layer is like a normal shell operation
 - The tools are prepended with `f`
 - `fls` is a tool that lists the files on an image starting at the root
 
-## The Walkthrough
+## **The Walkthrough**
 
 The Challenge[^2] require us to download the disk image, decompress, and then find the `flag` by looking at different layers of the `.img`.
 

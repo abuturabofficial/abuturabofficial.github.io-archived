@@ -18,7 +18,7 @@ Ready to geek out? 🤓 Subscribe to my [top-secret tech dispatch](#) so you're 
 
 **Got burning questions, collaboration ideas, or just want to shoot the breeze? Hit me up at [cyberfrontofficial@proton.me](mailto:cyberfrontofficial@proton.me){:target="_blank"}. I'm all ears (well, virtually)! Let's embark on this exhilarating journey together. 🚀✨**
 
-**GPG Public Key:** [Download](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)
+**GPG Public Key:** [Download](/assets/misc/publickey.asc) or [Get it from OPENPGP.ORG](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)
 
 <!--
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.

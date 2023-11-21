@@ -52,4 +52,4 @@ Like a chameleon in a field of rainbows, our Privacy Policy may change colors. A
 ## 8. Contact Us
 Got questions or concerns? Shoot us a message at [cyberfrontofficial@proton.me](mailto:cyberfrontofficial@proton.me){:target="_blank"}. We don't bite; we promise!
 
-**GPG Public Key:** [Download](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)
+**GPG Public Key:** [Download](/assets/misc/publickey.asc) or [Get it from OPENPGP.ORG](https://keys.openpgp.org/vks/v1/by-fingerprint/B2A1748F33BAE85E5A9C49C741EBAB900757D730)
