@@ -10,7 +10,7 @@ Effective Date: **2023-11-19**
 
 ## 1. Introduction
 
-Ahoy there, savvy internet traveler! Welcome to **[CyberFront](https://cyberfront.me){:target="_blank"}** . This Privacy Policy is our virtual handshake, outlining how we handle your information when you drop by our digital abode.
+Ahoy there, savvy internet traveler! Welcome to [CyberFront](/about){:target="_blank"}. This Privacy Policy is our virtual handshake, outlining how we handle your information when you drop by our digital abode.
 
 ## 2. Information We Collect
 
@@ -23,7 +23,7 @@ Fear not, dear visitor! We're not in the business of collecting personally ident
 No prying eyes here! We're not using any snoopy analytics tools. Your browser type, device, and operating system are your business, not ours.
 
 ## 3. Comments
-Ahoy, brave commenter! We've enlisted the help of **Giscus.app**, our trusty sidekick for comments on our posts. When you drop a line, Giscus.app might even do a little dance and display your GitHub username. To join the party, visitors must give the Giscus app a virtual high-five by authorizing it to post on their behalf using the GitHub OAuth flow. If you're feeling adventurous, you can also swing by the GitHub Discussion directly and leave your mark there.
+Ahoy, brave commenter! We've enlisted the help of [Giscus](https://giscus.app){:target="_blank"}, our trusty sidekick for comments on our posts. When you drop a line, Giscus.app might even do a little dance and display your GitHub username. To join the party, visitors must give the Giscus app a virtual high-five by authorizing it to post on their behalf using the GitHub OAuth flow. If you're feeling adventurous, you can also swing by the GitHub Discussion directly and leave your mark there.
 
 We take your privacy seriously, like guardians of a digital fortress. While we do our utmost to keep your data safe and sound, we encourage you to embark on a quest for knowledge by reviewing GitHub's privacy policy. GitHub, the wizard behind the curtain, is actively brewing up new spells for Discussions and its API. And as for Giscus.app, it's an open-source sorcerer, constantly honing its craft. Be warned, though: the world of tech is ever-changing, and features and practices may morph over time. For the inside scoop on GitHub's privacy practices, consult their sacred scrolls on their website.
 
