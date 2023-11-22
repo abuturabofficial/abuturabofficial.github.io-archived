@@ -7,7 +7,7 @@ category: ['My Notes', 'IT Support and Cloud Fundamentals']
 img_path: /assets/notes
 image:
   path: troubleshooting.jpeg
-  alt: 'Credits: pixabay.com'
+  alt: 'Credits: pexels.com'
 published: true
 ---
 
