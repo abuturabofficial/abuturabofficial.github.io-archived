@@ -8,7 +8,7 @@ img_path: /assets/notes
 image:
   path: google-it-support.jpeg
   alt: 'Credits: pixabay.com'
-published: true
+published: false
 ---
 
 This is a TOC of the courses I have taken related to IT Support and Cloud Fundamentals. Please take a look at tags section for more fine-grained filtering to get to your desired notes of mine.
