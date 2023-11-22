@@ -37,12 +37,8 @@ An operating system (OS) is software that manages computer hardware and facilita
 ### PuTTY
   
   A free, open source software that you can use to make remote connections through several network protocols, including SSH.
-- \DOING PuTTY can be used from CL, as \`putty.exe & ssh user@ip<sub>address</sub>`
-  :LOGBOOK:
-  CLOCK: [2023-10-01 Sun 11:22:23]--[2023-10-01 Sun 11:22:32] =>  00:00:09
-  CLOCK: [2023-10-01 Sun 11:22:33]--[2023-10-01 Sun 11:22:35] =>  00:00:02
-  CLOCK: [2023-10-01 Sun 11:22:36]
-  :END:
+- DOING PuTTY can be used from CL, as `putty.exe & ssh user@ip\<address>`
+
 - PuTTY comes with a Plink or PuTTYlink program, which can also be used for SSH-ing to other computers.
 - Microsoft provides another way to remotely connect with Windows computer via GUI, called Remote Desktop Protocol (RDP).
 
