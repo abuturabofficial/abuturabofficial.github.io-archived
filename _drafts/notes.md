@@ -1,10 +1,10 @@
 ---
 author: [abuturab, admin]
 title: 
+date: <yyyy-mm-dd> <hh:mm:ss> +0500
 tags: []
-date: 
-img_path: /assets/posts
 category: []
+img_path: /assets/notes
 image:
   path: 
   alt: 
