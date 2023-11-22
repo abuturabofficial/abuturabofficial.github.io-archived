@@ -44,7 +44,7 @@ The information travels in the form of bits in the Physical layer.
 - IP addressing
 - Encapsulation
 
-  The unit of data in [the network layer](../02-raw/Network%20Layer.md) is **datagram**.
+  The unit of data in the network layer is **datagram**.
 
 ## **Transport Layer**
 
@@ -52,7 +52,7 @@ The information travels in the form of bits in the Physical layer.
 
 ### Multiplexing and Demultiplexing
 
-  Multiplexing allows simultaneous use of different applications over a network that is running on a host. The transport layer provides this mechanism, which enables us to send packet streams from various applications simultaneously over a network. The transport layer accepts these packets from different processes, differentiated by their port numbers, and passes them to [the network layer](../02-raw/Network%20Layer.md) after adding proper headers. Similarly, Demultiplexing is required at the receiver side to obtain the data coming from various processes. Transport receives the segments of the data from [the network layer](../02-raw/Network%20Layer.md) and delivers it to the appropriate process running of the receivers’ machine.
+  Multiplexing allows simultaneous use of different applications over a network that is running on a host. The transport layer provides this mechanism, which enables us to send packet streams from various applications simultaneously over a network. The transport layer accepts these packets from different processes, differentiated by their port numbers, and passes them to the network layer after adding proper headers. Similarly, Demultiplexing is required at the receiver side to obtain the data coming from various processes. Transport receives the segments of the data from the network layer and delivers it to the appropriate process running of the receivers’ machine.
 
 ## **MAC Address**
 
