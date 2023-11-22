@@ -4,7 +4,7 @@ title:
 tags: []
 date: 
 img_path: /assets/posts
-category: 
+category: []
 image:
   path: 
   alt: 
