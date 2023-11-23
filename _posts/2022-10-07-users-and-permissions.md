@@ -7,7 +7,7 @@ category: ['My Notes', 'IT Support and Cloud Fundamentals']
 img_path: /assets/notes
 image:
   path: users-and-permissions.jpeg
-  alt: 'credits: <a href="https://www.freepik.com/free-photo/privacy-security-data-protection-shield-graphic-concept_16470183.htm#query=users%20and%20permissions&position=31&from_view=search&track=ais&uuid=19996ffa-b0f4-45e8-bb3f-49904dc38421">Image by rawpixel.com</a> on Freepik'
+  alt: 'credits: Image by rawpixel.com on Freepik'
 published: true
 ---
 

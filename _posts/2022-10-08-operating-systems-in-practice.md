@@ -7,7 +7,7 @@ category: ['My Notes', 'IT Support and Cloud Fundamentals']
 img_path: /assets/notes
 image:
   path: operating-systems-in-practice.jpeg
-  alt: 'Credits: <a href="https://www.freepik.com/free-vector/operating-system-concept-illustration_9233847.htm#query=operating%20systems&position=7&from_view=search&track=ais&uuid=c6cf14dd-410c-46f1-9434-4b0b24ccfcca">Image by storyset</a> on Freepik'
+  alt: 'Credits: Image by storyset on Freepik'
 published: true
 ---
 ## **Remote Access**

@@ -7,7 +7,8 @@ category: ['My Notes', 'IT Support and Cloud Fundamentals']
 img_path: /assets/notes
 image:
   path: process-management.jpeg
-  alt: 'Credits: Image by <a href="https://www.freepik.com/free-photo/standard-quality-control-concept-m_36027742.htm#query=computer%20process%20management&position=4&from_view=search&track=ais&uuid=daeeeb0c-44e1-4962-bb8f-8fbe069521e0">Freepik</a>'
+  alt: 'Credits: Image by Freepik'
+
 published: true
 ---
 

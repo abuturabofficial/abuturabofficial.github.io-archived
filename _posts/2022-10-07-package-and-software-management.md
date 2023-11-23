@@ -7,7 +7,7 @@ category: ['My Notes', 'IT Support and Cloud Fundamentals']
 img_path: /assets/notes
 image:
   path: package-and-software-management.jpeg
-  alt: 'Credits: <a href="https://www.freepik.com/free-vector/digital-packaging-concept-illustration_19472297.htm#query=package%20and%20software&position=0&from_view=search&track=ais&uuid=73f71ce6-3540-4b76-abfb-279af3107bff">Image by storyset</a> on Freepik'
+  alt: 'Credits: Image by storyset on Freepik'
 published: true
 ---
 
