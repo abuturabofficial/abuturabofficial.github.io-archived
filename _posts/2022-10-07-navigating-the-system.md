@@ -177,9 +177,9 @@ A Relative path is the path from your current directory.
 
 - To copy a file
 
-	  ```console
-	  cp <Path\to\the\file\to\be\copied> <Path\to\the\directory\of\copying> 
-	  ```
+  ```console
+  cp <Path\to\the\file\to\be\copied> <Path\to\the\directory\of\copying> 
+  ```
 
   - To copy multiple file at once, **Wildcard** is used
 
@@ -201,9 +201,9 @@ A character that's used to help select files based on a certain pattern.
 
 - To copy a directory
 
-	  ```console
-	  cp <Directory/to/be/copied> <Path/where/to/be/copied>
-	  ```
+  ```console
+  cp <Directory/to/be/copied> <Path/where/to/be/copied>
+  ```
 
 ## **File and Text Manipulation**
 

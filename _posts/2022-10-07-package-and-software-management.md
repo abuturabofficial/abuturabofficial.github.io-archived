@@ -13,7 +13,7 @@ published: true
 
 ## **Software Distribution**
 
- ### **Windows: Software Packages**
+### **Windows: Software Packages**
 
 - On Windows, software is usually packaged in a **.exe** executable file.
 - Software is packaged according to Microsoft **Portable Executable** or **PE** format.

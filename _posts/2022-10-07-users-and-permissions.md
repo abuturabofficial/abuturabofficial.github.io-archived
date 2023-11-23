@@ -95,7 +95,7 @@ cat /etc/passwd
 - To change user's password from CLI
   
   ```terminal
-  net user <username> 'desired password'
+  net user <username> <password>
   ```
 
 - To interactively change the password
