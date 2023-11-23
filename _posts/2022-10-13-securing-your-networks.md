@@ -83,7 +83,7 @@ published: true
   
   Reverse proxies:  
   + [HAProxy](https://cbonte.github.io/haproxy-dconv/1.8/intro.html#3.3.1)
-  + [Nginx](http://nginx.org/en/docs/beginners_guide.html#proxy)
+  + [Nginx](https://nginx.org/en/docs/beginners_guide.html#proxy)
   + [Apache web server](https://httpd.apache.org/docs/2.4/howto/reverse_proxy.html)
 
 ## **Wireless Security**
