@@ -346,5 +346,5 @@ published: true
 
 [^1]: Bind DNS: <https://www.isc.org/downloads/bind/>
 [^2]: PowerDNS: <https://www.powerdns.com/>
-[^3]: DNSmasq: <http://www.thekelleys.org.uk/dnsmasq/doc.html>
+[^3]: DNSmasq: <https://www.thekelleys.org.uk/dnsmasq/doc.html>
 [^4]: Erl-DNS: <https://github.com/dnsimple/erldns>
