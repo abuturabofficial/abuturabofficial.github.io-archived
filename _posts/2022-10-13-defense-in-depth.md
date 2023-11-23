@@ -70,9 +70,9 @@ published: true
   + **Antivirus software** is just one piece of our anti-malware defenses.
   + There are **binary whitelisting defense** software, that only allow white listed programs on the system.
   
-  [Is antivirus really that useful?](http://robert.ocallahan.org/2017/01/disable-your-antivirus-software-except.html)
-  [Sophos antivirus was maliciously compromised.](http://lock.cmpxchg8b.com/Sophail.pdf)
-  [How hackers bypassed the binary whitelisting defenses?](http://www.crn.com/news/security/240148192/bit9-admits-systems-breach-stolen-code-signing-certificates.htm)
+  [Is antivirus really that useful?](https://robert.ocallahan.org/2017/01/disable-your-antivirus-software-except.html)
+  [Sophos antivirus was maliciously compromised.](https://lock.cmpxchg8b.com/Sophail.pdf)
+  [How hackers bypassed the binary whitelisting defenses?](https://www.crn.com/news/security/240148192/bit9-admits-systems-breach-stolen-code-signing-certificates.htm)
   
   ![Defense in Depth](Defense%20in%20Depth-1.png){: w="650" h="350"}
 
