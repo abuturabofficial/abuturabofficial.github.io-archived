@@ -202,40 +202,40 @@ published: true
 
 ### CompTIA troubleshooting model steps
   
-  1) Identify the problem
-	- Gather information
-	- Question users
-	- Identify symptoms
-	- Determine if anything has changed
-	- Duplicate the problem
-	- Approach multiple problems individually
-	  2) Research the knowledge base/Internet
-	- Knowledge base
-	- Internet
-	  3) Establish a theory of probable cause
-	- Question the obvious (Is the printer turned on?)
-	- Consider more than one approach
-	  4) Test the theory to determine the cause
-	- Are you successful?
-	- More research and testing may be required
-	  5) Establish a plan of action
-	- Some fixes may require reboots or downtime
-	- May require downloading software or patches
-	- Test in staging environment if available
-	- Back up data
-	- May require approval
-	  6) Implement the solution or escalate
-	- Run scripts
-	- Update systems or software
-	- Update configuration files
-	- Change firewall settings
-	  7) Verify full system functionality and implement preventive measures
-	- Ask users to test functionality
-	- Consider other servers or devices
-	  8) Document findings/lessons, actions, and outcomes
-	- Full document your research, theories, changes, and updates
-	- Add information to knowledge base
-	- Useful if unintended consequences appear
+1. Identify the problem
+  - Gather information
+  - Question users
+  - Identify symptoms
+  - Determine if anything has changed
+  - Duplicate the problem
+  - Approach multiple problems individually
+1. Research the knowledge base/Internet
+  - Knowledge base
+  - Internet
+1. Establish a theory of probable cause
+  - Question the obvious (Is the printer turned on?)
+  - Consider more than one approach
+1. Test the theory to determine the cause
+  - Are you successful?
+  - More research and testing may be required
+1. Establish a plan of action
+  - Some fixes may require reboots or downtime
+  - May require downloading software or patches
+  - Test in staging environment if available
+  - Back up data
+  - May require approval
+1. Implement the solution or escalate
+  - Run scripts
+  - Update systems or software
+  - Update configuration files
+  - Change firewall settings
+1. Verify full system functionality and implement preventive measures
+  - Ask users to test functionality
+  - Consider other servers or devices
+1. Document findings/lessons, actions, and outcomes
+  - Full document your research, theories, changes, and updates
+  - Add information to knowledge base
+  - Useful if unintended consequences appear
 
 ## **Tech Support Methodologies and Frameworks**
 
