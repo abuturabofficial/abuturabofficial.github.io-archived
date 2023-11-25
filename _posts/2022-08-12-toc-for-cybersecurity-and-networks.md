@@ -45,10 +45,10 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 
 ### **5) Penetration Testing, Incident Response and Forensics[^6]**
 
-1. [Penetration Testing]
-2. [Incident Response]
-3. [Digital Forensics]
-4. [Introduction to Scripting]
+1. [Penetration Testing](/posts/penetration-testing)
+2. [Incident Response](/posts/incident-response)
+3. [Digital Forensics](/posts/digital-forensics)
+4. [Introduction to Scripting](/posts/introduction-to-scripting)
 
 ### **6) Cyber Threat Intelligence[^7]**
 
