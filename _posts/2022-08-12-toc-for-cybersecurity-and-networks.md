@@ -52,11 +52,11 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 
 ### **6) Cyber Threat Intelligence[^7]**
 
-1. [Threat Intelligence]
-2. [Data Loss Prevention and Mobile Endpoint Protection]
-3. [Scanning]
-4. [SIEM Platforms]
-5. [Threat Hunting]
+1. [Threat Intelligence](/posts/threat-intelligence)
+2. [Data Loss Prevention and Mobile Endpoint Protection](/posts/data-loss-prevention-and-mobile-endpoint-protection)
+3. [Scanning](/posts/scanning)
+4. [SIEM Platforms](/posts/siem-platforms)
+5. [Threat Hunting](/posts/threat-hunting)
 
 ## **Cybersecurity Specialization**
 
