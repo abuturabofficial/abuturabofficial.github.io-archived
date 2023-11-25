@@ -38,10 +38,10 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 
 ### **4) Network Security and Database Vulnerabilities[^5]**
 
-1. [TCP IP Framework]
-2. [Basics of IP Addressing and the OSI Model]
-3. [Introduction to Databases]
-4. [Deep Dive Injection Vulnerability]
+1. [TCP IP Framework](/posts/tcp-ip-framework)
+2. [Basics of IP Addressing and the OSI Model](/posts/basics-of-ip-addressing-and-the-osi-model)
+3. [Introduction to Databases](/posts/introduction-to-databases)
+4. [Deep Dive Injection Vulnerability](/posts/deep-dive-injection-vulnerability)
 
 ### **5) Penetration Testing, Incident Response and Forensics[^6]**
 
@@ -58,19 +58,16 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 4. [SIEM Platforms]
 5. [Threat Hunting]
 
-## Cybersecurity Specialization
-### Usable Security
-  - [[Fundamentals of Humans Computer Interaction]]
-  - [[Design]]
-  - [[Evaluation]]
-  - [[Strategies for Secure Interaction Design]]
-  - [[Usable Authentication]]
-  - [[Usable Privacy]]
+## **Cybersecurity Specialization**
 
-### Software Security
-### Cryptography
-### Hardware Security
-### Cybersecurity Capstone Project
+### **1) Usable Security**
+
+1. [Fundamentals of Humans Computer Interaction]
+2. [Design]
+3. [Evaluation]
+4. [Strategies for Secure Interaction Design]
+5. [Usable Authentication]
+6. [Usable Privacy]
 
 ## References
 
