@@ -31,10 +31,10 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 
 ### **3) Cybersecurity Compliance Framework and System Administration[^4]**
 
-1. [Compliance Frameworks and Industry Standards]
-2. [Client System Administration Endpoint Protection and Patching]
-3. [Server and User Administration]
-4. [Cryptography and Compliance Pitfalls]
+1. [Compliance Frameworks and Industry Standards](/posts/compliance-frameworks-and-industry-standards)
+2. [Client System Administration Endpoint Protection and Patching](/posts/client-system-administration-endpoint-protection-and-patching)
+3. [Server and User Administration](/posts/server-and-user-administration)
+4. [Cryptography and Compliance Pitfalls](/posts/cryptography-and-compliance-pitfalls)
 
 ### **4) Network Security and Database Vulnerabilities[^5]**
 
