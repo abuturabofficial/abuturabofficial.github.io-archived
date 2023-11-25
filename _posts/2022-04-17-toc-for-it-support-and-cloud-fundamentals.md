@@ -79,7 +79,7 @@ IBM IT Support Professional Certificate is an industry standard specialization t
 
 1. [Introduction to Computing Fundamentals](/posts/introduction-to-computing-fundamentals)
 2. [Computing Devices and Peripherals](/posts/computing-devices-and-peripherals)
-3. [Interfaces and Connectors](/posts/interfaces-and-connecto)
+3. [Interfaces and Connectors](/posts/interfaces-and-connectors)
 4. [Internal Computer Components](/posts/internal-computer-components)
 5. [Workstation Setup Evaluation and Troubleshooting](/posts/workstation-setup-evaluation-and-troubleshooting)
 
