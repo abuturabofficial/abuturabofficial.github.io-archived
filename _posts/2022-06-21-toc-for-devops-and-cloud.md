@@ -50,8 +50,8 @@ published: true
 
 ### **6) Getting Started with Git and GitHub[^7]**
 
-1. [Git and GitHub Fundamentals]
-2. [Using Git Commands and Managing GitHub Projects]
+1. [Git and GitHub Fundamentals](/posts/git-and-github-fundamentals)
+2. [Using Git Commands and Managing GitHub Projects](/posts/using-git-commands-and-managing-github-projects)
 
 ### **7) Python for Data Science, AI, and Development[^8]**
 
