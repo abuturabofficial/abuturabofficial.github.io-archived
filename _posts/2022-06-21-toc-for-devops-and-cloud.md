@@ -44,9 +44,9 @@ published: true
 
 ### **5) Hands-on Introduction to Linux Commands and Shell Scripting[^6]**
 
-1. [Introduction to Linux]
-2. [Introduction to Linux Commands]
-3. [Introduction to Shell Scripting]
+1. [Introduction to Linux](/posts/introduction-to-linux)
+2. [Introduction to Linux Commands](/posts/introduction-to-linux-commands)
+3. [Introduction to Shell Scripting](/posts/introduction-to-shell-scripting)
 
 ### **6) Getting Started with Git and GitHub[^7]**
 
