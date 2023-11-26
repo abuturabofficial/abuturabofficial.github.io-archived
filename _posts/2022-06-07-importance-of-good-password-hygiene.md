@@ -4,7 +4,7 @@ title: "Importance of Good Password Hygiene"
 tag: ['password managers', 'online security', 'blogs']
 date: 2022-06-07
 img_path: /assets/posts
-category: 'Password Managers'
+category: ['Blogs', 'Password Managers']
 image:   
   path: 2022-06-07-importance-of-good-password-hygiene.jpeg
   alt: An old man doing thumbs up with both of his hands

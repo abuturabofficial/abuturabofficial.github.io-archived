@@ -3,8 +3,8 @@ author: [abuturab, admin]
 title: Sleuthkit Apprentice Walkthrough
 tag: ['ctf', 'cybersecurity']
 date: 2023-09-28 10:28:00 +0500
-img_path: /assets/posts
-category: 'Capture the Flag Challenges'
+img_path: /assets/ctf
+category: ['Capture the Flag Challenges', 'picoCTF']
 image:
   path: 2023-09-28-Sleuthkit-Apprentice-Walkthrough.png
   alt: PicoCTF Logo

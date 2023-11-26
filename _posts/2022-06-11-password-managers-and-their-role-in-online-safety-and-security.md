@@ -4,7 +4,7 @@ title: Password Managers and their Role in Online Safety and Security
 tag: ['password managers', 'online security', blogs]
 date: 2022-06-11
 img_path: /assets/posts
-category: 'Password Managers'
+category: ['Blogs', 'Password Managers']
 image:   
   path: passwordmanager.jpeg
   alt: Security written on the computer screen
