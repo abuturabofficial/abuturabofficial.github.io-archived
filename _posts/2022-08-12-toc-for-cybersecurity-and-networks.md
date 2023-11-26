@@ -1,6 +1,6 @@
 ---
 author: [abuturab, admin]
-title: 'TOC for Cybersecurity and Networks, Courses'
+title: 'TOC for Cybersecurity and Networks'
 date: 2022-08-12 09:00:00 +0500
 tags: ['Cybersecurity Specialization', 'IBM Cybersecurity Analyst Professional Certificate', 'Courses TOC']
 category: ['My Notes', 'Cybersecurity and Networks']
