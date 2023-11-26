@@ -55,8 +55,8 @@ published: true
 
 ### **7) Python for Data Science, AI, and Development[^8]**
 
-1. [Python Programming Fundamentals]
-2. [Python Data Structures]
+1. [Python Programming Fundamentals](/posts/python-programming-fundamentals)
+2. [Python Data Structures](/posts/python-data-structures)
 
 ## References
 
