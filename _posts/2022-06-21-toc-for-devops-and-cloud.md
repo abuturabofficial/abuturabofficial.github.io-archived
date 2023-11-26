@@ -22,17 +22,17 @@ published: true
 
 ### **2) Introduction to Cloud Computing[^3]**
 
-1. [Overview of Cloud Computing]
-2. [Cloud Computing Models]
-3. [Components of Cloud Computing]
-4. [Emerging Trends and Practices]
-5. [Cloud Security, Monitoring, Case Studies, Jobs]
+1. [Overview of Cloud Computing](/posts/overview-of-cloud-computing)
+2. [Cloud Computing Models](/posts/cloud-computing-models)
+3. [Components of Cloud Computing](/posts/components-of-cloud-computing)
+4. [Emerging Trends and Practices](/posts/emerging-trends-and-practices)
+5. [Cloud Security, Monitoring, Case Studies, Jobs](/posts/cloud-security-monitoring-case-studies-jobs)
 
 ### **3) Introduction to Agile Development and Scrum[^4]**
 
-1. [Introduction to Agile and Scrum]
-2. [Agile Planning]
-3. [Daily Execution]
+1. [Introduction to Agile and Scrum](/posts/introduction-to-agile-and-scrum)
+2. [Agile Planning](/posts/agile-planning)
+3. [Daily Execution](/posts/daily-execution)
 
 ### **4) Introduction to Software Engineering[^5]**
 
