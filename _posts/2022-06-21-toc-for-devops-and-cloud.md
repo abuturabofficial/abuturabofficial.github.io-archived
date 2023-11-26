@@ -36,11 +36,11 @@ published: true
 
 ### **4) Introduction to Software Engineering[^5]**
 
-1. [SDLC - The Software Development Lifecycle]
-2. [Introduction to Software Development]
-3. [Basics of Programming II]
-4. [Software Architecture Design and Patterns]
-5. [Job Opportunities and Skill sets in Software Engineering]
+1. [SDLC - The Software Development Lifecycle](/posts/the-software-development-lifecycle)
+2. [Introduction to Software Development](/posts/introduction-to-software-development)
+3. [Basics of Programming](/posts/basics-of-programming-ii)
+4. [Software Architecture Design and Patterns](/posts/software-architecture-design-and-patterns)
+5. [Job Opportunities and Skill sets in Software Engineering](/posts/job-opportunities-and-skill-sets-in-se)
 
 ### **5) Hands-on Introduction to Linux Commands and Shell Scripting[^6]**
 
