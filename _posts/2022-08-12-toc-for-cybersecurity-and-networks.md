@@ -58,16 +58,21 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 4. [SIEM Platforms](/posts/siem-platforms)
 5. [Threat Hunting](/posts/threat-hunting)
 
-## **Cybersecurity Specialization**
+## **Cybersecurity Specialization[^8]**
 
-### **1) Usable Security**
+Cybersecurity Specialization is an advanced course offered by **University of Maryland**. It dives deep into the core topics related to software security, cryptography, hardware etc.
 
-1. [Fundamentals of Humans Computer Interaction]
-2. [Design]
-3. [Evaluation]
-4. [Strategies for Secure Interaction Design]
-5. [Usable Authentication]
-6. [Usable Privacy]
+> My progress in this specialization came to a halt after completing the first course, primarily because the subsequent courses were highly advanced and required background knowledge that I lacked. I will resume my journey once I feel confident in possessing the necessary expertise to tackle those courses.
+{: .prompt-info}
+
+### **1) Usable Security[^9]**
+
+1. [Fundamentals of Human-Computer Interaction: users, usability, tasks, and cognitive models](/posts/fundamentals-of-humans-computer-interaction)
+2. [Design: design methodology, prototyping, cybersecurity case study](/posts/usable-design)
+3. [Evaluation: usability studies, A/B testing, quantitative and qualitative evaluation, cybersecurity case study](/posts/usable-evaluation)
+4. [Strategies for Secure Interaction Design: authority, guidelines for interface design](/posts/strategies-for-secure-interaction-design)
+5. [Usable Authentication: authentication mechanisms, biometrics, two-factor authentication](/posts/usable-authentication)
+6. [Usable Privacy: privacy settings, personal data sharing, data inference](/posts/usable-privacy)
 
 ## References
 
@@ -78,3 +83,5 @@ IBM Cybersecurity Analyst Professional Certificate is a specialization course, w
 [^5]: Network Security and Database Vulnerabilities: <https://www.coursera.org/learn/network-security-database-vulnerabilities?specialization=ibm-cybersecurity-analyst>
 [^6]: Penetration Testing, Incident Response and Forensics: <https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics?specialization=ibm-cybersecurity-analyst>
 [^7]: Cyber Threat Intelligence: <https://www.coursera.org/learn/ibm-cyber-threat-intelligence?specialization=ibm-cybersecurity-analyst>
+[^8]: **UMD Cybersecurity Specialization:** <https://www.coursera.org/specializations/cyber-security>
+[^9]: Usable Security: <https://www.coursera.org/learn/usable-security?specialization=cyber-security>
