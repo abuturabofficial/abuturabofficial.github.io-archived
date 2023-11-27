@@ -10,6 +10,10 @@ platforms:
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
+  - type: Whatsapp
+    icon: "fab fa-whatsapp"
+    link: "whatsapp://send?text=TITLE%20URL"
+
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
@@ -36,5 +40,3 @@ platforms:
     link: "https://fosstodon.org/"
   - label: photog.social
     link: "https://photog.social/"
-  - label: infosec.exchange
-    link: "https://infosec.exchange/"
