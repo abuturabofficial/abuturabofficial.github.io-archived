@@ -52,7 +52,7 @@ The use of digital technology, like computers and the internet, to store and pro
   
 #### Analytical Engine
   
-  Babbage followed it Difference Engine with Analytical Engine, he was inspired by Punch Cards, and it was able to perform automatic calculations without human interaction.
+  Babbage followed his Difference Engine with an Analytical Engine, he was inspired by Punch Cards, and it was able to perform automatic calculations without human interaction.
   
   But it was still a giant Mechanical Computer, though being impressive.
 
@@ -113,7 +113,7 @@ A series of steps that solve specific problems.
   
   4.  XOR logic gate
   
-  5.  SAND logic gate
+  5.  NAND logic gate
   
   6.  XNOR logic gate
 
