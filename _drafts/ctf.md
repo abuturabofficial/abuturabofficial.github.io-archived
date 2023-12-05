@@ -8,5 +8,4 @@ img_path: /assets/ctf
 image:
   path: 
   alt: 
-published: false
 ---

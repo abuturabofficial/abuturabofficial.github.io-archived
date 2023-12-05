@@ -8,5 +8,4 @@ img_path: /assets/notes
 image:
   path: 
   alt: 
-published: false
 ---

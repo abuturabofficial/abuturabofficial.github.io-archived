@@ -8,5 +8,4 @@ img_path: /assets/posts
 image:
   path: 
   alt: 
-published: false
 ---
