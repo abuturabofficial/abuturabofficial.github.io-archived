@@ -21,3 +21,4 @@ package-lock.json
 assets/js/dist
 .obsidian
 .trash
+.jekyll-metadata
