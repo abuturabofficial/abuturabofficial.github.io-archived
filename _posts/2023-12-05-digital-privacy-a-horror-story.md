@@ -19,14 +19,20 @@ It signifies the long-lost battle of digital privacy[^5]. We gave up our privacy
 Is privacy totally lost, or is this blog title merely clickbait? I won't claim it's a complete clickbait, but rather a wake-up call for those who perceive their governments, internet providers, and other e-service providers as entities that won't harm them at all. We can't revert to the pre-internet era, given our extensive involvement and reliance on online connectivity, encompassing banking, schooling, shopping, and social interactions. However, we can make a conscious effort to minimize our online footprint and, whenever possible, refrain from contributing to the colossal data-collection machinery.
 
 > How do I reduce my digital footprint? It is a topic of some other blog, but in the references section on the bottom, I will share some useful links[^3] to help kick-start your Internet Privacy journey.
-{: .prompt-info}
+{: .prompt-tip}
+
+## Web 2.0: A Privacy Nightmare!
 
 The advent of Web 2.0 was based on the generous free tiers offered to the consumers. But that freebie came at the cost of our digital life being exposed to those service providers. What we search on Google, what we watch on YouTube and TikTok, and how we interact with our social circle over on Facebook and Instagram, every step of ours is recorded. Then, with the help of complex algorithms, used to manipulate us through their ads. But the story doesn't end with the ads, our personal data is sold to the highest **3<sup>rd</sup> Party** bidders to make more profit off of it. Unfortunately, the story also doesn't end there, those e-vultures follow us around the web, keep hoarding more and more data about our online activities, and thus generating more profit by selling it. The collected data can be used to manipulate our thoughts and ideas in a particular direction as intended by the highest bidder. Facebook–Cambridge Analytica data scandal[^2] is a good example of how much dangerous a data collection can be, when used as a weapon of mass manipulation for specialized gains.
+
+## Lack of Data Privacy took a toll on our Mental Health
 
 Another danger of widespread data collection and its negative use is the toll on our mental health. Social media platforms (YouTube, Facebook, Twitter, TikTok, etc.), along with most major websites that serve any kind of content, as well as games, are designed to keep their users hooked by employing behavioral analysis[^4] and complex data analytics. For instance, when you open YouTube, the default page is the Home page rather than your subscription feed. This design encourages users to spend more time on the platform by suggesting videos based on their specific usage patterns on YouTube and other Google products in general. Additionally, when you click on a video, there is a recommended videos section on one side of the video playback, designed to further extend your stay on YouTube.
 
 > Do you ever wonder why Facebook newsfeed just never ends, even though you have a couple of friends added! Why YouTube recommendation page has no end to it! Why can't you scroll to the end of TikTok, Reels, YT Shorts and loads of other services? Do you wonder why games keep nudging you about new reward unlocks or some artificially limited-time offers on in-game assets?
 {: .prompt-danger}
+
+## Communication Privacy
 
 Even our communication privacy is largely at risk due to widespread use of WhatsApp, traditional SMS, iMessage, etc. Although WhatsApp, iMessage[^9] and few others proprietary messaging platforms claim to offer End-to-End Encryption (E2EE), where the sender and receiver are the only ones that can read each other messages. But due to their closed nature, we can't independently verify their claims. Are we comfortable to give those platform access to our chats with our loved ones? Are we willing to see ads based on our chats with our friends and family? I think nobody in their right mind will ever allow this.
 
@@ -36,7 +42,33 @@ Even our communication privacy is largely at risk due to widespread use of Whats
 > iMessage cloud backups will only use E2EE, when you enable “Advanced Data Protection for iCloud[^8]”.
 {: .prompt-tip}
 
+### Telegram: It's not as private as you think!
+
 Contrary to the widespread notion that Telegram is more private, it's by default even less private than WhatsApp due to no by-default E2EE. Telegram only uses E2EE when you use secret chat's feature. There is no E2EE in group chats, or default regular chats. Telegram uses their own encryption model instead of industry standard one. There are many other flaws[^6][^7] which will need the blog post of their own. When average users learn about privacy and see telegram mentioned as one of the ways to privately communicate with others, they don't bother to look further and start using it as is, thinking End-to-End Encryption is there by default.
+
+## Email: A Risk
+
+Email is another threat to our digital privacy, due to the sole nature of how in-secure an email protocol by-default is. It was designed to quickly and effectively deliver information, security of those send information wasn't the goal at that time. Likes of Gmail, Outlook etc., doesn't protect you with E2EE, instead use TLS (in-transit encryption of your emails, in which somebody listening on your network traffic or your ISP won't be able to make sense of them) to protect in-transit snooping of the emails. But hold the encryption keys themselves, in case of any government subpoena, or Server side hack, your private emails will be at the risk of exposure. Google and Microsoft being the encryption keyholders, they can read your emails, and serve you personalized ads based on it. There are other email provides like [ProtonMail](https://proton.me/mail), [Tuta](https://tuta.com/) and others, which provides different ways to encrypt your Email communications, but those have flaws[^11][^12] too, due to the constraints of being able to send email to non-encrypted Email providers, or complex nature of using PGP encryption for your emails, and no encryption for Email headers etc.
+
+### ProtonMail and Tuta: Concerns about Encrypted Emails
+
+ProtonMail and Tuta are some of the most popular encrypted email providers, but there is a catch.
+
+## Privacy, Security, and Anonymity
+
+We tend to mix up the concepts of privacy, security, and anonymity[^10]. Privacy is, you're the sole owner of your data, the concerned party provides you assurance that it will land in the wrong hands. While that concerned party proves really they are what they claim is security. Anonymity is the ability to surf or use the WWW, without giving up your personally identifiable information (PII). In the real world, anonymity is almost nonexistent (except when using a TOR Browser, still it's not guaranteed). Instead, what we want is the balance of all three. First we want is the privacy by having a minimal data collection, which is strictly needed to provide the desired service. Second, we want is the security of not only our data, but also insurance that the service provider is legit. Third, we ask for the anonymity of our collected data, from 3<sup>rd</sup> parties as well as other users of the same service.
+
+### Misconception about Privacy and Security related to Open-Source Software
+
+
+
+## Growing Governments' Intervention
+
+The state of online privacy and security is deteriorating with the time due to increased surveillance[^13] and growing Governments' dislikes[^14] of the data encryption and privacy. Apart from the authoritarian states, this negative view of privacy, security, and encryption of individuals' data is seen as a national security risk. Governments are trying to deploy methods to decipher those encrypted communications and data in the name of avoiding terror threats.
+
+## Where we stand today!
+
+The Web 2.0 was built around the idea of collecting more and more data about its users, making profit off of it, instead of users paying for their services.
 
 ## References
 ---
@@ -49,4 +81,9 @@ Contrary to the widespread notion that Telegram is more private, it's by default
 [^6]: R. Mimoun uncovers "Insecure by Design: 7 Reasons to Question Telegram's Privacy" on HackerNoon. [Get the Details](https://hackernoon.com/7-reason-why-telegram-is-insecure-by-design-but-millions-still-flock-to-it-ignoring-privacy-concerns-qq1o344c)
 [^7]: Wired dishes out insights on "Fleeing WhatsApp for Better Privacy? Don't Turn to Telegram." [Read the Article](https://www.wired.com/story/telegram-encryption-whatsapp-settings/)
 [^8]: Safeguard your information with Apple's "Advanced Data Protection for iCloud." [Official Documentation](https://support.apple.com/en-us/102651)
-[^9]: How-To Geek breaks down why "Apple’s iMessage Is Secure... Unless You Have iCloud Enabled." [Check it Out](https://www.howtogeek.com/710509/apples-imessage-is-secure...-unless-you-have-icloud-enabled/)
+[^9]: How-To Geek breaks down why "Apple’s iMessage Is Secure… Unless You Have iCloud Enabled." [Check it Out](https://www.howtogeek.com/710509/apples-imessage-is-secure...-unless-you-have-icloud-enabled/)
+[^10]: Dive deep into "Why Privacy Matter" debate over on Privacy Guides [Read More](https://www.privacyguides.org/en/basics/why-privacy-matters/)
+[^11]: "Read more about Encrypted Email and Security Nihilism", May 18, 2018. [Check Out](https://www.aclu.org/news/privacy-technology/encrypted-email-and-security-nihilism) (Some parts of this article maybe outdated)
+[^12]: Educate yourself about 7 Drawbacks of Encrypted Email, May 22, 2023. [Read More](https://www.consensus.com/blog/7-drawbacks-of-encrypted-email/)
+[^13]: Dive into K. Zetter's piece on "How Edward Snowden Leaked the NSA's Dirty Surveillance Business", May 13, 2014. [Learn More](https://www.wired.com/2014/05/greenwald-no-place-to-hide/)
+[^14]: "Why FBI don't like the encryption?" [Read FBI's Stance](https://www.fbi.gov/about/faqs/what-concerns-do-the-fbi-and-the-law-enforcement-communities-have-regarding-the-growing-use-of-encryption-products-by-the-public-both-domestically-and-abroad)
