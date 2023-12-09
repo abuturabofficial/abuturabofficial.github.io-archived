@@ -1,6 +1,6 @@
 ---
 author: [abuturab, admin]
-title: "Digital Privacy: A Horror Story"
+title: "Digital Privacy and Web 2.0: A Horror Story"
 date: 2023-12-05 10:27:00 +0500
 tags: ['blogs', privacy, 'digital freedom']
 category: ['Blogs', 'Digital Privacy']
@@ -8,64 +8,105 @@ img_path: /assets/posts
 image:
   path: 2023-12-05-digital-privacy-a-horror-story.jpeg
   alt: 'Credits: Photo by Markus Spiske on Unsplash'
-published: false
+published: true
 ---
 
 The famous phrase:
 > “If you're not paying for it, you become the product.[^1]”
 
-It signifies the long-lost battle of digital privacy[^5]. We gave up our privacy when we signed up for these free-to-use services, thinking that they won't betray us. But they did, and did so bad that there is no way to escape from them, unless we altogether left the online world and start relying on the caveman's method of communication and access to the information.
+It signifies the long-lost battle of digital privacy[^5]. We gave up our privacy when we signed up for these free-to-use services, thinking that they won't betray us. But they did, and did so bad that there is no way to escape from them (completely), unless we altogether leave the online world and start relying on the caveman's method of communication and access to the information.
 
-Is privacy totally lost, or is this blog title merely clickbait? I won't claim it's a complete clickbait, but rather a wake-up call for those who perceive their governments, internet providers, and other e-service providers as entities that won't harm them at all. We can't revert to the pre-internet era, given our extensive involvement and reliance on online connectivity, encompassing banking, schooling, shopping, and social interactions. However, we can make a conscious effort to minimize our online footprint and, whenever possible, refrain from contributing to the colossal data-collection machinery.
+Is privacy totally lost, or is this blog title merely a clickbait? I won't claim it's a complete clickbait, but rather a wake-up call for those who perceive their governments, internet providers, and other e-service providers as entities that won't harm them at all. We can't revert to the pre-internet era, given our extensive involvement and reliance on online connectivity, encompassing banking, schooling, shopping, and social interactions. However, we can make a conscious effort to minimize our online footprint and, whenever possible, refrain from contributing to the colossal data-collection machinery.
 
 > How do I reduce my digital footprint? It is a topic of some other blog, but in the references section on the bottom, I will share some useful links[^3] to help kick-start your Internet Privacy journey.
 {: .prompt-tip}
 
 ## Web 2.0: A Privacy Nightmare!
 
-The advent of Web 2.0 was based on the generous free tiers offered to the consumers. But that freebie came at the cost of our digital life being exposed to those service providers. What we search on Google, what we watch on YouTube and TikTok, and how we interact with our social circle over on Facebook and Instagram, every step of ours is recorded. Then, with the help of complex algorithms, used to manipulate us through their ads. But the story doesn't end with the ads, our personal data is sold to the highest **3<sup>rd</sup> Party** bidders to make more profit off of it. Unfortunately, the story also doesn't end there, those e-vultures follow us around the web, keep hoarding more and more data about our online activities, and thus generating more profit by selling it. The collected data can be used to manipulate our thoughts and ideas in a particular direction as intended by the highest bidder. Facebook–Cambridge Analytica data scandal[^2] is a good example of how much dangerous a data collection can be, when used as a weapon of mass manipulation for specialized gains.
+The advent of Web 2.0 was based on the generous free tiers offered to the consumers. But that freebie came at the cost of our digital life being exposed to those service providers. What we search on Google, what we watch on YouTube and TikTok, and how we interact with our social circle over on Facebook and Instagram, every step of ours is recorded. Then, with the help of complex algorithms, is used to manipulate us through their ads.
 
-## Lack of Data Privacy and Mental Health
+But the story doesn't end with the ads, our personal data is sold to the highest paying **3<sup>rd</sup> Party** bidders to make more profit off of it. Unfortunately, the story also doesn't end there, those e-vultures follow us around the web, keep hoarding more and more data about our online activities, and thus generating more profit by selling it.
 
-Another danger of widespread data collection and its negative use is the toll on our mental health. Social media platforms (YouTube, Facebook, Twitter, TikTok, etc.), along with most major websites that serve any kind of content, as well as games, are designed to keep their users hooked by employing behavioral analysis[^4] and complex data analytics. For instance, when you open YouTube, the default page is the Home page rather than your subscription feed. This design encourages users to spend more time on the platform by suggesting videos based on their specific usage patterns on YouTube and other Google products in general. Additionally, when you click on a video, there is a recommended videos section on one side of the video playback, designed to further extend your stay on YouTube.
+This collected data can be used to manipulate our thoughts and ideas in a particular direction as intended by the highest bidder. Facebook–Cambridge Analytica data scandal[^2] is a good example of how much dangerous a data collection can be, when used as a weapon of mass manipulation for specialized gains.
 
-> Do you ever wonder why Facebook newsfeed just never ends, even though you have a couple of friends added! Why YouTube recommendation page has no end to it! Why can't you scroll to the end of TikTok, Reels, YT Shorts and loads of other services? Do you wonder why games keep nudging you about new reward unlocks or some artificially limited-time offers on in-game assets?
+## Data Privacy and Its Impact on Mental Health
+
+One alarming consequence of pervasive data collection is its detrimental effect on mental health. Social media platforms such as YouTube, Facebook, Twitter, TikTok, and others, along with major content-serving websites and games, leverage behavioral analysis[^4] and intricate data analytics to keep users engaged.
+
+Consider the deliberate design choices: when you open YouTube, the default landing page is the Home page rather than your subscription feed. This design tactic encourages prolonged usage by suggesting videos based on individual usage patterns. Similarly, the recommended videos section on the side of video playback further extends your stay on the platform.
+
+> Have you ever questioned why your Facebook newsfeed seems endless, despite having only a handful of friends? Or why the YouTube Home Page seems infinite? The continuous scrolling on TikTok, Reels, YT Shorts, and other platforms might make you wonder, why? Additionally, games persistently prompt you with new rewards or artificially limited-time offers on in-game assets.
 {: .prompt-danger}
+
+Moreover, the rise of short-form content on platforms like TikTok, Reels, Shorts, etc., is impacting our attention spans[^22]. These platforms, based on your usage patterns, curate and serve you more short-form content, contributing to a continuous cycle of data collection. Users unwittingly find themselves caught in an endless loop of feedback and response.
+
+Consider this: the rapid succession of short, attention-grabbing videos conditions our minds to seek instant gratification. As a result, our ability to engage with longer, more complex content diminishes. This not only affects our attention spans but also shapes the type of content these platforms prioritize for us.
+
+For instance, the addictive nature of endlessly scrolling through bite-sized videos on TikTok or Reels keeps users glued to their screens, fostering a habit of consuming information in bite-sized portions. This, in turn, fuels the platforms' appetite for more data, perpetuating the cycle.
+
+In essence, the design of these platforms, fueled by data-driven insights, not only influences what we see but also molds our consumption habits, subtly steering us towards content that aligns with their data-collection objectives.
+
+> Some researchers[^23] argue against the idea of decreasing attention span, link it to the increasing work load and the adaptation of multitasking in this digital era.
+{: .prompt-info}
 
 ## Communication Privacy
 
 Even our communication privacy is largely at risk due to widespread use of WhatsApp, traditional SMS, iMessage, etc. Although WhatsApp, iMessage[^9] and few others proprietary messaging platforms claim to offer End-to-End Encryption (E2EE), where the sender and receiver are the only ones that can read each other messages. But due to their closed nature, we can't independently verify their claims. Are we comfortable to give those platform access to our chats with our loved ones? Are we willing to see ads based on our chats with our friends and family? I think nobody in their right mind will ever allow this.
 
-> WhatsApp itself doesn't run any ads, but they do share metadata with their parent company, Meta (formerly Facebook). You will see some flowery language about it, like data sharing for enhanced user experience and improving the infrastructure etc… 
+> Using unencrypted methods like plain SMS, and carrier calls, are far worse than using WhatsApp or other E2EE proprietary instant messengers.
 {: .prompt-warning}
+
+> WhatsApp itself doesn't run any ads, but they do share metadata with their parent company, Meta (formerly Facebook). You will see some flowery language about it, like data sharing for enhanced user experience and improving the infrastructure etc… 
+{: .prompt-info}
 
 > iMessage cloud backups will only use E2EE, when you enable “Advanced Data Protection for iCloud[^8]”.
 {: .prompt-tip}
 
 ### Telegram: It's not as private as you think!
 
-Contrary to the widespread notion that Telegram is more private, it's by default even less private than WhatsApp due to no by-default E2EE. Telegram only uses E2EE when you use secret chat's feature. There is no E2EE in group chats, or default regular chats. Telegram uses their own encryption model instead of industry standard one. There are many other flaws[^6][^7] which will need the blog post of their own. When average users learn about privacy and see telegram mentioned as one of the ways to privately communicate with others, they don't bother to look further and start using it as is, thinking End-to-End Encryption is there by default.
+Contrary to the widespread notion that Telegram is more private, it's by default even less private than WhatsApp due to no by-default E2EE. Telegram only uses E2EE when you use secret chat's feature. There is no E2EE in group chats, or default regular chats. Telegram uses their own encryption model instead of industry standard ones.
+
+There are many other flaws[^6][^7] which will need the blog post of their own. When average users learn about privacy and see telegram mentioned as one of the ways to privately communicate with others, they don't bother to look further and start using it as is, thinking End-to-End Encryption is there by default.
 
 ### Email: A Risk!
 
-Email is another threat to our digital privacy, due to the sole nature of how in-secure an email protocol by-default is. It was designed to quickly and effectively deliver information, security of those send information wasn't the goal at that time. Likes of Gmail, Outlook etc., doesn't protect you with E2EE, instead use TLS (in-transit encryption of your emails, in which somebody listening on your network traffic or your ISP won't be able to make sense of them) to protect in-transit snooping of the emails. But hold the encryption keys themselves, in case of any government subpoena, or Server side hack, your private emails will be at the risk of exposure. Google and Microsoft being the encryption keyholders, they can read your emails, and serve you personalized ads based on it. There are other email provides like [ProtonMail](https://proton.me/mail), [Tuta](https://tuta.com/) (formerly Tutanota) and others, which provides different ways to encrypt your Email communications, but those have flaws[^11][^12] too, due to the constraints of being able to send email to non-encrypted Email providers, or complex nature of using PGP encryption for your emails, and no encryption for Email headers etc.
+Email is another threat to our digital privacy, due to the sole nature of how in-secure an email protocol by-default is. It was designed to quickly and effectively deliver information, security of this sent information wasn't the goal at that time.
+
+Likes of Gmail, Outlook etc., doesn't protect you with E2EE, instead use TLS (in-transit encryption of your emails, in which somebody listening on your network traffic or your ISP won't be able to make sense of them) to protect in-transit snooping of the emails. But hold the encryption keys themselves, in case of any government subpoena, or Server side hack, your private emails will be at the risk of exposure.
+
+Google and Microsoft being the encryption keyholders, they can read your emails, and serve you personalized ads based off them. There are other email provides like [ProtonMail](https://proton.me/mail), [Tuta](https://tuta.com/) (formerly Tutanota) and others, which provide different ways to encrypt your Email communications, but those have flaws[^11][^12] too, due to the constraints of being able to send email to non-encrypted Email providers, or complex nature of using PGP encryption for your emails, and no encryption for Email headers etc.
 
 ### ProtonMail and Tuta: Concerns about Encrypted Emails
 
-ProtonMail and Tuta are some of the most popular encrypted email providers, but there is a catch. When a layman learns about the importance of privacy and security, he tends to migrate his Email to some privacy respecting EE2E email providers. Little does he know that, despite using those vendors, he is still at risk (arguably even more) of exposing his private information to the 3rd parties. As these email providers only offer E2EE when send and receiver, both are using the same provider (Proton or Tuta). For example, if you send an email from ProtonMail to Gmail or Outlook, though Proton will not able to see the content of your emails. But Gmail or Outlook having no compatible E2EE will easily be able to decipher your message.
+ProtonMail and Tuta are some of the most popular encrypted email providers, but there is a catch. When a layman learns about the importance of privacy and security, he tends to migrate his Email to some privacy respecting EE2E email providers. Little does he know that, despite using those vendors, he is still at risk (arguably even more) of exposing his private information to the 3rd parties.
 
-Tuta E2EE method allow them to encrypt metadata like subject field, but ProtonMail due to S/MIME and PGP compatibility doesn't encrypt your email subject field. Both providers do provide password-protected emails for non Proton/Tuta email exchanges, but sharing those passwords with the receiver safely would need some other E2EE service.
+As these email providers only offer E2EE when sender and receiver, both are using the same provider (Proton or Tuta). For example, if you send an email from ProtonMail to Gmail or Outlook, though Proton will not able to see the content of your emails. But Gmail or Outlook having no compatible E2EE will easily be able to decipher your message.
+
+Tuta E2EE method allows them to encrypt metadata like subject field, but ProtonMail due to S/MIME and PGP compatibility doesn't encrypt your email subject field. Both providers do provide password-protected emails for non Proton/Tuta email exchanges, but sharing those passwords with the receiver safely would need some other E2EE service.
 
 > Tuta[^20] provides E2EE based on [AES-128](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) and [RSA-2048](https://en.wikipedia.org/wiki/RSA_(cryptosystem)). In contrast, ProtonMail[^21] uses [OpenGPG](https://www.openpgp.org/) and also supports compatibility with other email providers that use [PGP](https://en.wikipedia.org/wiki/GNU_Privacy_Guard) and [S/MIME](https://en.wikipedia.org/wiki/S/MIME).
 {: .prompt-tip}
 
 ## Privacy, Security, and Anonymity
 
-We tend to mix up the concepts of privacy, security, and anonymity[^10]. Privacy is, you're the sole owner of your data, the concerned party provides you assurance that it will land in the wrong hands. While that concerned party proves really they are what they claim is security. Anonymity is the ability to surf or use the WWW, without giving up your personally identifiable information (PII). In the real world, anonymity is almost nonexistent (except when using a TOR Browser, still it's not guaranteed). Instead, what we want is the balance of all three. First we want is the privacy by having a minimal data collection, which is strictly needed to provide the desired service. Second, we want is the security of not only our data, but also insurance that the service provider is legit. Third, we ask for the anonymity of our collected data, from 3<sup>rd</sup> parties as well as other users of the same service.
+We often confuse privacy, security, and anonymity. Privacy means being the sole owner of your data, with the assurance that it won't fall into the wrong hands. Security is when the concerned party proves they are what they claim to be. Anonymity involves surfing or using the web without revealing personally identifiable information (PII), though true anonymity is rare even with a TOR Browser.
 
-## <mark style="background: #FF5582A6;">Misconceptions about Open-Source Software</mark>
+What we aim for is a balance of all three. Firstly, we seek privacy by minimizing data collection to what's essential for the desired service. Secondly, we desire the security of both our data and confirmation of the legitimacy of the service provider. Lastly, we request anonymity for our collected data, safeguarding it from 3rd parties and other users of the same service.
 
+## Misconceptions about Open-Source Software
 
+When we hear the word open source, we tend to associate it with a high amount of trust and confidence. Though it's generally true that open source software in its core can't harm you, but there are few pointers we need to keep in mind when using open source:
+- The software has how many users?
+  - More number of users ideally means more eyes on the code base, and the bugs and security flaws will be discovered quickly.
+- If you're technical enough, you should yourself look at the code at each major release, to make sure it doesn't include anything that is against the free software philosophy.
+- When a software is maintained by a hobbyist/independent developer, there are chances that their goals about that software might change with time, so be on a look-out for any maintainer and philosophy changes.
+- A developer may [sell](https://www.androidauthority.com/simple-mobile-tools-acquisition-3391041/) his project without any prior notice (unethically) to a person or entity, which isn't privacy respecting at all.
+- A developer may turn [evil](https://www.zdnet.com/article/some-developers-are-fouling-up-open-source-software/) to perceive their political biases or agenda.
+- Someone might try to sabotage a free software by introducing an [intentional flaw](https://www.zdnet.com/article/greg-kroah-hartman-bans-university-of-minnesota-from-linux-development-for-deliberately-buggy-patches/).
+- All in all, you should be careful not when using a proprietary software (even more, IMHO) but also for free software. Don't just trust the developer or maintainer, see for yourself, or look out what other people who have used/using this software have to say about it.
+
+> I'm not trying to demerit the open source in any sense, the only thing I want is people should remain careful in all scenarios instead of just relying on promises of not turning evil.
+{: .prompt-warning}
 
 ## Growing Governments' Intervention
 
@@ -78,11 +119,23 @@ These legislative efforts aim to implement unproven methods to scan end-to-end e
 
 I see arguments against E2EE as comparable to installing cameras in everyone's homes in the name of national security and child protection. The idea that everyone could pose a threat doesn't justify intrusive surveillance. Governments and law enforcement should prioritize legitimate efforts rather than resorting to injecting spyware into devices. Both actions are not only wrong, but also unlawful, violating the fundamental human right to personal privacy. Intruding into personal devices is, in my opinion, even more invasive, as breaking E2EE opens the door for governments and potential threat actors to hack into ideas and manipulate opinions which is more dangerous than physical surveillance.
 
-## <mark style="background: #FF5582A6;">Where we stand today!</mark>
+## Concluding Thoughts: Navigating the Digital Privacy Maze
 
-The Web 2.0 was built around the idea of collecting more and more data about its users, making profit off of it, instead of users paying for their services. The Governments are continuously trying to compromise[^19] our privacy and security by introducing invasive legislations. We need to be mindful of what we share online. The digital privacy and security comes at a cost:
-- You need to make deliberate effort to ensure the service you're communicating with is legit.
-- 
+As we navigate the intricate landscape of digital privacy, it becomes evident that the foundations of Web 2.0 were laid upon the bedrock of data collection for profit. Simultaneously, governments wield legislative instruments that can compromise our privacy[^19]. In this alarming scenario, our role in safeguarding our digital lives cannot be overstated.
+
+To fortify your digital presence and protect your privacy:
+
+- **Mindful Engagement:** Deliberately choose services that prioritize user privacy. Be vigilant about the information you share online and the data collected by the platforms you use.
+
+- **Migration to Privacy-First Platforms:** Explore alternative platforms committed to respecting user privacy. Remember, privacy sometimes comes at a cost; consider investing in services aligned with your privacy requirements.
+
+- **Empowerment Through Settings:** If migrating isn't feasible, empower yourself by optimizing the **privacy and security settings** of the services you currently use. Minimize data collection wherever possible.
+
+- **Deconstructing Policies:** Unravel the privacy policies of major service providers. Understand how they leverage your data. Knowledge is power, and being informed about data usage practices is a crucial step in digital self-defense.
+
+- **Stay Informed:** The data mining industry is dynamic, with practices evolving constantly. Keep yourself up-to-date of these changes to stay one step ahead.
+
+In this era of data-driven economies and legislative scrutiny, the duty lies on us to be proactive custodians of our digital privacy. Through informed choices and constant vigilance, we can construct a shield against the creeping threats to our personal space in the digital realm.
 
 ## References
 ---
@@ -108,3 +161,5 @@ The Web 2.0 was built around the idea of collecting more and more data about its
 [^19]: A piece on "The government wants access to your encrypted messages — we must act now to defend our right to privacy", July 6, 2023. [Read More](https://thehill.com/opinion/technology/4081907-the-government-wants-access-to-your-encrypted-messages-we-must-act-now-to-defend-our-right-to-privacy/)
 [^20]: An FAQ about Tuta's Encryption Methodology, [Read More](https://tuta.com/support/#algorithms)
 [^21]: A Explanation given by Proton about their E2EE, December 30, 2021. [Read the Blog](https://proton.me/support/proton-mail-encryption-explained)
+[^22]: J. Zaveri piece on "TikTok and the Death of the Attention Span", May 23, 2023. [Read the Full Article](https://theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span/)
+[^23]: Subramanian, Kalpathy Ramaiyer. "Myth and mystery of shrinking attention span." _ResearchGate.net_ 5.1 (2018): 1-6. [Read the Paper](https://www.researchgate.net/publication/327367023_Myth_and_Mystery_of_Shrinking_Attention_Span)
