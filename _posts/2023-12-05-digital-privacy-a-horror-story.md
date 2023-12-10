@@ -123,7 +123,7 @@ I see arguments against E2EE as comparable to installing cameras in everyone's h
 
 As we navigate the intricate landscape of digital privacy, it becomes evident that the foundations of Web 2.0 were laid upon the bedrock of data collection for profit. Simultaneously, governments wield legislative instruments that can compromise our privacy[^19]. In this alarming scenario, our role in safeguarding our digital lives cannot be overstated.
 
-To fortify your digital presence and protect your privacy:
+To fortify your digital presence and protect your privacy[^10]:
 
 - **Mindful Engagement:** Deliberately choose services that prioritize user privacy. Be vigilant about the information you share online and the data collected by the platforms you use.
 
