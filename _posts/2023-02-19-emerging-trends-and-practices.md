@@ -81,7 +81,7 @@ published: true
 - Short-running stateless functions
 - Seasonal workloads
 - Production volumetric data
-- Even-based processing
+- Event-based processing
 - Stateless microservices
 
 ### Use Cases
