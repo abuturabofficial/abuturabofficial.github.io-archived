@@ -246,7 +246,7 @@ published: true
 
 ### Multiple Compute Nodes
 
-- File storage can be mounted onto more than compute node
+- File storage can be mounted onto more than one compute node
 - Common Workloads:
 	- Departmental file share
 	- ‘Landing zone’ for incoming files
