@@ -4,7 +4,7 @@ title: "Python Data Structures"
 date: 2023-09-23 09:49:00 +0500
 tags: ['IBM DevOps and SE/Python for Data Science, AI, and Development']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: python-for-ds-ai-and-development.jpeg
   alt: 'Credits: Image by pressfoto on Freepik'

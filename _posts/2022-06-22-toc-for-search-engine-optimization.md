@@ -4,7 +4,7 @@ title: 'TOC for Search Engine Optimization (SEO)'
 date: 2022-06-21 07:20:00 +0500
 tags: ['Search Engine Optimization (SEO) Specialization', 'Courses TOC']
 category: ['My Notes', 'Search Engine Optimization (SEO)']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: seo.jpeg
   alt: 'Credits: Image by storyset on Freepik'

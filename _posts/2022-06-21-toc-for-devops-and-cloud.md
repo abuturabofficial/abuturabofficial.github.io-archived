@@ -4,7 +4,7 @@ title: 'TOC for DevOps and Cloud'
 date: 2022-06-21 15:20:00 +0500
 tags: ['IBM DevOps and SE', 'Courses TOC']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: devops-and-cloud.jpeg
   alt: 'Credits: Image by vectorjuice on Freepik'

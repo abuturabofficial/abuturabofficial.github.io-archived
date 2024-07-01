@@ -4,7 +4,7 @@ title: "Emerging Trends and Practices"
 date: 2023-02-19 11:18:00 +0500
 tags: ['IBM IT Support/Introduction to Cloud Computing']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: overview-of-cloud-computing.jpeg
   alt: 'Credits: Image by Freepik'

@@ -4,7 +4,7 @@ title: "Organizing for DevOps"
 date: 2023-05-15 10:44:00 +0500
 tags: ['IBM DevOps and SE/Introduction to DevOps']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: overview-of-devops.jpeg
   alt: 'Credits: Image by vectorjuice on Freepik'

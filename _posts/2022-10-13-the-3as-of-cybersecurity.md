@@ -4,7 +4,7 @@ title: 'The 3 As of Cybersecurity - 3A Authentication, Authorization, Accounting
 date: 2022-10-13 07:46:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: the-3as-of-cybersecurity.jpeg
   alt: 'Credits: Image by juicy_fish on Freepik'

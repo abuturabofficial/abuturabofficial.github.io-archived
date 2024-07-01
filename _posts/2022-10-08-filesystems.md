@@ -4,7 +4,7 @@ title: Filesystems
 date: 2022-10-08 09:43:00 +0500
 tags: ['google it support/Operating Systems and You: Becoming a Power User']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: filesystems.jpeg
   alt: 'Credits: pixabay.com'

@@ -4,7 +4,7 @@ title: Navigating the System
 date: 2022-10-07 13:42:00 +0500
 tags: ['google it support/Operating Systems and You: Becoming a Power User']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: navigating-the-system.jpeg
   alt: 'Credits: pixabay.com'

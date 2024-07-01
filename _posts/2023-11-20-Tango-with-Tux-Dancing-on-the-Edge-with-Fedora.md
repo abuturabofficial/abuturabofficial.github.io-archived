@@ -3,7 +3,7 @@ author: [abuturab, admin]
 title: Tango with Tux, Dancing on the Edge with Fedora
 tags: ['fedora workstation', linux, 'distro review', 'blogs']
 date: 2023-11-20 10:00:00 +0500
-img_path: /assets/posts
+media_subpath: /assets/posts
 category: ['Blogs', 'Linux']
 image:
   path: fedora.jpeg

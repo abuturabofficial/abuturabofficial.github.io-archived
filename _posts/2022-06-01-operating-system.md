@@ -4,7 +4,7 @@ title: Operating System
 date: 2022-06-01 11:00:00 +0500
 tags: ['google it support/technical support fundamentals']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: operating-system.jpeg
   alt: 'Credits: pixabay.com'

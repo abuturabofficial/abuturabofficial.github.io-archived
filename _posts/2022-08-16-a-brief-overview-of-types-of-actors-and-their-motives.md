@@ -4,7 +4,7 @@ title: "A Brief Overview of Types of Actors and their Motives"
 date: 2022-08-16 18:44:00 +0500
 tags: ['IBM Cybersecurity Analyst/Introduction to Cybersecurity Tools and Cyberattacks']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-cybersecurity-tools-and-cyberattacks.jpeg
   alt: 'Credits: Image by Freepik'

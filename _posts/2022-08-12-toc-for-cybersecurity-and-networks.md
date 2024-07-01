@@ -4,7 +4,7 @@ title: 'TOC for Cybersecurity and Networks'
 date: 2022-08-12 09:00:00 +0500
 tags: ['Cybersecurity Specialization', 'IBM Cybersecurity Analyst Professional Certificate', 'Courses TOC']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: cybersecurity-and-networks.jpeg
   alt: 'Credits: Image by Freepik'

@@ -4,7 +4,7 @@ title: "Support Tools, Support Tiers, and Service-Level Agreements"
 date: 2023-02-22 15:43:00 +0500
 tags: ['IBM IT Support/Introduction to Technical Support']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: support-tools-support-tiers-and-service-level-agreements.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

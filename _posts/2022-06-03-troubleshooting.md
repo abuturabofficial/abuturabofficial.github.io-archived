@@ -4,7 +4,7 @@ title: Troubleshooting
 date: 2022-06-03 11:00:00 +0500
 tags: ['google it support/technical support fundamentals']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: troubleshooting.jpeg
   alt: 'Credits: pexels.com'

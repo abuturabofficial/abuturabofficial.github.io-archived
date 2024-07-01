@@ -4,7 +4,7 @@ title: Troubleshooting and the Future of Networking
 date: 2022-10-06 21:03:00 +0500
 tags: ['google it support/The Bits and Bytes of Computer Networking']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: troubleshooting-and-the-future-of-networking.jpeg
   alt: 'Credits: pixabay.com'

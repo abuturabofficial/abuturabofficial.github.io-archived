@@ -4,7 +4,7 @@ title: "Introduction to Computing Fundamentals"
 date: 2023-02-06 14:51:00 +0500
 tags: ['IBM IT Support/Introduction to Hardware and Operating Systems']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-computing-fundamentals.jpeg
   alt: 'Credits: Image by jannoon028 on Freepik'

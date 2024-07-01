@@ -4,7 +4,7 @@ title: "Computing Devices and Peripherals"
 date: 2023-02-08 13:00:00 +0500
 tags: ['IBM IT Support/Introduction to Hardware and Operating Systems']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: computing-devices-and-peripherals.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

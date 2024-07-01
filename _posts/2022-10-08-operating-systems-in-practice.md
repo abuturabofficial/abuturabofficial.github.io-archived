@@ -4,7 +4,7 @@ title: Operating Systems in Practice
 date: 2022-10-08 21:16:00 +0500
 tags: ['google it support/Operating Systems and You: Becoming a Power User']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: operating-systems-in-practice.jpeg
   alt: 'Credits: Image by storyset on Freepik'

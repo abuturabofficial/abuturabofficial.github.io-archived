@@ -4,7 +4,7 @@ title: Data Recovery and Backups
 date: 2022-10-11 07:50:00 +0500
 tags: ['google it support/System Administration and IT Infrastructure Services']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: data-recovery-and-backups.jpeg
   alt: 'Credits: Image by Freepik'

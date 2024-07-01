@@ -4,7 +4,7 @@ title: "Computing Platforms and Software Application"
 date: 2023-02-16 12:41:00 +0500
 tags: ['IBM IT Support/Introduction to Software, Programming, and Databases']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: computing-platforms-and-software-application.jpeg
   alt: 'Credits: Image by Freepik'

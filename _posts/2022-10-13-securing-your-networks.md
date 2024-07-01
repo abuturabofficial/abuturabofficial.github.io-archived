@@ -4,7 +4,7 @@ title: Securing Your Networks
 date: 2022-10-13 10:40:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: securing-your-networks.jpeg
   alt: 'Credits: Image by photoroyalty on Freepik'

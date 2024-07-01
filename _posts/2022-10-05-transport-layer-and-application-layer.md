@@ -4,7 +4,7 @@ title: Transport Layer and Application Layer
 date: 2022-10-05 07:24:00 +0500
 tags: ['google it support/The Bits and Bytes of Computer Networking']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: transport-layer-and-application-layer.jpeg
   alt: 'Credits: pexels.com'

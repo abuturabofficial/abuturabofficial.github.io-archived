@@ -4,7 +4,7 @@ title: Networking Services
 date: 2022-10-05 08:30:00 +0500
 tags: ['google it support/The Bits and Bytes of Computer Networking']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: networking-services.jpeg
   alt: 'Credits: pixabay.com'

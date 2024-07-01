@@ -4,7 +4,7 @@ title: "Job Opportunities and Skill sets in Software Engineering"
 date: 2023-05-23 08:49:00 +0500
 tags: ['IBM DevOps and SE/Introduction to Software Engineering']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-se.jpeg
   alt: 'Credits: Image by Freepik'

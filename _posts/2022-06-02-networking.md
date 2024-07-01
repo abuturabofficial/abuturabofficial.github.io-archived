@@ -4,7 +4,7 @@ title: Networking
 date: 2022-06-02 09:00:00 +0500
 tags: ['google it support/technical support fundamentals']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: networking.jpeg
   alt: 'Credits: pixabay.com'

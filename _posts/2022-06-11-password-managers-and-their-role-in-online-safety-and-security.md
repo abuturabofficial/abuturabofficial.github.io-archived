@@ -3,7 +3,7 @@ author: [abuturab, admin]
 title: Password Managers and their Role in Online Safety and Security
 tag: ['password managers', 'online security', blogs]
 date: 2022-06-11
-img_path: /assets/posts
+media_subpath: /assets/posts
 category: ['Blogs', 'Password Managers']
 image:   
   path: passwordmanager.jpeg

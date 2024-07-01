@@ -4,7 +4,7 @@ title: Creating a Company Culture for Security
 date: 2022-10-13 19:26:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: creating-a-company-culture-for-security.jpeg
   alt: 'Credits: Image by rawpixel.com on Freepik'

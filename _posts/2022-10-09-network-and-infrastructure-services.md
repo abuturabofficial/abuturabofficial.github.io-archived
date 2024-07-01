@@ -4,7 +4,7 @@ title: Network and Infrastructure Services
 date: 2022-10-09 20:59:00 +0500
 tags: ['google it support/System Administration and IT Infrastructure Services']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: network-and-infrastructure-services.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

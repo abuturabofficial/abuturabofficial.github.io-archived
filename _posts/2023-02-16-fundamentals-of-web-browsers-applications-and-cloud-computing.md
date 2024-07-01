@@ -4,7 +4,7 @@ title: "Fundamentals of Web Browsers, Applications, and Cloud Computing"
 date: 2023-02-16 16:01:00 +0500
 tags: ['IBM IT Support/Introduction to Software, Programming, and Databases']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: fundamentals-of-web-browsers-applications-and-cloud-computing.jpeg
   alt: 'Credits: Image by creativeart on Freepik'

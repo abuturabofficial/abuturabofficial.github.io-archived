@@ -4,7 +4,7 @@ title: "People processes and technology"
 date: 2022-08-18 18:32:00 +0500
 tags: ['IBM Cybersecurity Analyst/Cybersecurity Roles, Processes and Operating System Security']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: cybersecurity-roles-processes-and-os-security.jpeg
   alt: 'Credits: Image by 8photo on Freepik'

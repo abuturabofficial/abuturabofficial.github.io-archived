@@ -4,7 +4,7 @@ title: TOC for IT Support and Cloud Fundamentals
 date: 2022-04-17 10:00:00 +0500
 tags: ['Google IT Support', 'IBM IT Support', 'Courses TOC']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: google-it-support.jpeg
   alt: 'Credits: pixabay.com'

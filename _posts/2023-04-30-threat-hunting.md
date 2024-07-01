@@ -4,7 +4,7 @@ title: "Threat Hunting"
 date: 2023-04-30 17:13:00 +0500
 tags: ['IBM Cybersecurity Analyst/Cyber Threat Intelligence']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: cyber-threat-intelligence.jpeg
   alt: 'Credits: Image by standret on Freepik'

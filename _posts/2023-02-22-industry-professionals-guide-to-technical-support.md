@@ -4,7 +4,7 @@ title: "Industry Professional's Guide to Technical Support"
 date: 2023-02-22 11:43:00 +0500
 tags: ['IBM IT Support/Introduction to Technical Support']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: industry-professionals-guide-to-technical-support.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

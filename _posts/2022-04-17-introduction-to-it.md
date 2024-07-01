@@ -4,7 +4,7 @@ title: Introduction to IT
 date: 2022-04-17 11:30:00 +0500
 tags: ['google it support/technical support fundamentals']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-it.jpeg
   alt: 'Credits: pixabay.com'

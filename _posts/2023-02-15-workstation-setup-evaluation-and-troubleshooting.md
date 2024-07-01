@@ -4,7 +4,7 @@ title: "Workstation Setup Evaluation and Troubleshooting"
 date: 2023-02-15 11:33:00 +0500
 tags: ['IBM IT Support/Introduction to Hardware and Operating Systems']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: workstation-setup-evaluation-and-troubleshooting.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

@@ -4,7 +4,7 @@ title: "Introduction to Agile and Scrum"
 date: 2023-05-18 08:42:00 +0500
 tags: ['IBM DevOps and SE/Introduction to Agile Development and Scrum']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-agile-development-and-scrum.jpeg
   alt: 'Credits: Image by katemangostar on Freepik '

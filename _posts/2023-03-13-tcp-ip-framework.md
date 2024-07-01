@@ -4,7 +4,7 @@ title: "TCP IP Framework"
 date: 2023-03-13 11:47:00 +0500
 tags: ['IBM Cybersecurity Analyst/Network Security and Database Vulnerabilities']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: network-security-and-database-vuln.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

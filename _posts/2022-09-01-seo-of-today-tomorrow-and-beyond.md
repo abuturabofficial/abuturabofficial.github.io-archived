@@ -4,7 +4,7 @@ title: 'SEO of Today, Tomorrow and Beyond'
 date: 2022-09-01 10:38:00 +0500
 tags: ['Search Engine Optimization (SEO) Specialization/Introduction to Google SEO']
 category: ['My Notes', 'Search Engine Optimization (SEO)']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-google-seo.jpeg
   alt: 'Credits: Image by vectorpouch on Freepik'

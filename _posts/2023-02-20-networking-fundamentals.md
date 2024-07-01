@@ -4,7 +4,7 @@ title: "Networking Fundamentals"
 date: 2023-02-20 11:16:00 +0500
 tags: ['IBM IT Support/Introduction to Networking and Storage']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: networking-fundamentals.jpeg
   alt: 'Credits: Image by rawpixel.com on Freepik'

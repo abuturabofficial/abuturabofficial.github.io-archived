@@ -4,7 +4,7 @@ title: "Digital Privacy and Web 2.0: A Horror Story"
 date: 2023-12-05 10:27:00 +0500
 tags: ['blogs', privacy, 'digital freedom']
 category: ['Blogs', 'Digital Privacy']
-img_path: /assets/posts
+media_subpath: /assets/posts
 image:
   path: 2023-12-05-digital-privacy-a-horror-story.jpeg
   alt: 'Credits: Photo by Markus Spiske on Unsplash'

@@ -4,7 +4,7 @@ title: Introduction to Networking
 date: 2022-06-05 06:00:00 +0500
 tags: ['google it support/The Bits and Bytes of Computer Networking']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: introduction-to-networking.jpeg
   alt: 'Credits: pixabay.com'

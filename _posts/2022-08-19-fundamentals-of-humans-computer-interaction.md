@@ -4,7 +4,7 @@ title: "Fundamentals of Human-Computer Interaction: users, usability, tasks, and
 date: 2022-08-19 15:12:00 +0500
 tags: ['UMD Cybersecurity Specialization/Usable Security']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: usable-security.jpeg
   alt: 'Credits: Image by storyset on Freepik'

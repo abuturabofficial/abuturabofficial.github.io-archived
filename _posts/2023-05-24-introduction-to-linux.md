@@ -4,7 +4,7 @@ title: "Introduction to Linux"
 date: 2023-05-24 06:11:00 +0500
 tags: ['IBM DevOps and SE/Hands-on Introduction to Linux Commands and Shell Scripting']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: linux-commands-and-shell-scripting.jpeg
   alt: 'Credits: Image by Freepik'

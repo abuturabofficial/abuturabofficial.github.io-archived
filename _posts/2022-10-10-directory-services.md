@@ -4,7 +4,7 @@ title: Directory Services
 date: 2022-10-10 18:25:00 +0500
 tags: ['google it support/System Administration and IT Infrastructure Services']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: directory-services.jpeg
   alt: 'Credits: Image by Freepik'

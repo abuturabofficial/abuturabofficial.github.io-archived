@@ -4,7 +4,7 @@ title: What is System Administration?
 date: 2022-10-09 08:11:00 +0500
 tags: ['google it support/System Administration and IT Infrastructure Services']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: what-is-system-administration.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

@@ -4,7 +4,7 @@ title: Defense in Depth
 date: 2022-10-13 16:15:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: defense-in-depth.jpeg
   alt: 'Credits: Image by vectorjuice on Freepik'

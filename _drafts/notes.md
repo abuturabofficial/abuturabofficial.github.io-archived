@@ -4,7 +4,7 @@ title:
 date: <yyyy-mm-dd> <hh:mm:ss> +0500
 tags: []
 category: ['My Notes']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: 
   alt: 

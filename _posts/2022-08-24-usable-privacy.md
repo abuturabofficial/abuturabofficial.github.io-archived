@@ -4,7 +4,7 @@ title: "Usable Privacy: privacy settings, personal data sharing, data inference"
 date: 2022-08-24 18:02:00 +0500
 tags: ['UMD Cybersecurity Specialization/Usable Security']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: usable-security.jpeg
   alt: 'Credits: Image by storyset on Freepik'

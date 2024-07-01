@@ -4,7 +4,7 @@ title: "Database Fundamentals"
 date: 2023-02-17 16:18:00 +0500
 tags: ['IBM IT Support/Introduction to Software, Programming, and Databases']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: database-fundamentals.jpeg
   alt: 'Credits: Image by rawpixel.com on Freepik'

@@ -4,7 +4,7 @@ title: 'Final Project: SysAdmin and IT Infrastructure Services'
 date: 2022-10-11 09:27:00 +0500
 tags: ['google it support/System Administration and IT Infrastructure Services']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: sysadmin-and-it-infrastructure-services-final-project.jpeg
   alt: 'Credits:  Image by rawpixel.com on Freepik'

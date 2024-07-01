@@ -4,7 +4,7 @@ title: Package and Software Management
 date: 2022-10-07 19:27:00 +0500
 tags: ['google it support/Operating Systems and You: Becoming a Power User']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: package-and-software-management.jpeg
   alt: 'Credits: Image by storyset on Freepik'

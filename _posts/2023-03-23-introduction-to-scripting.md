@@ -4,7 +4,7 @@ title: "Introduction to Scripting"
 date: 2023-03-23 16:04:00 +0500
 tags: ['IBM Cybersecurity Analyst/Penetration Testing, Incident Response and Forensics']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: penetration-testing-ir-and-forensics.jpeg
   alt: 'Credits: Image by macrovector on Freepik'

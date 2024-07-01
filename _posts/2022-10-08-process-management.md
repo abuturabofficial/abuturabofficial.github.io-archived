@@ -4,7 +4,7 @@ title: OS Process Management
 date: 2022-10-08 19:10:00 +0500
 tags: ['google it support/Operating Systems and You: Becoming a Power User']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: process-management.jpeg
   alt: 'Credits: Image by Freepik'

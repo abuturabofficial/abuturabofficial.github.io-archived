@@ -4,7 +4,7 @@ title: "Using Git Commands and Managing GitHub Projects"
 date: 2023-06-06 08:18:00 +0500
 tags: ['IBM DevOps and SE/Getting Started with Git and GitHub']
 category: ['My Notes', 'DevOps and Cloud']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: getting-started-with-git-and-github.jpeg
   alt: 'Credits: Image by zirconicusso on Freepik'

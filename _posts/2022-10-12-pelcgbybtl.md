@@ -4,7 +4,7 @@ title: 'Pelcgbybtl (Cryptology)'
 date: 2022-10-12 16:45:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: pelcgbybtl.jpeg
   alt: 'Credits: Image by sentavio on Freepik'

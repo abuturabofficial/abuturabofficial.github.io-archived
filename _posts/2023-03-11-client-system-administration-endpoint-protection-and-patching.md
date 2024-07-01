@@ -4,7 +4,7 @@ title: "Client System Administration Endpoint Protection and Patching"
 date: 2023-03-11 12:40:00 +0500
 tags: ['IBM Cybersecurity Analyst/Cybersecurity Compliance Framework and System Administration']
 category: ['My Notes', 'Cybersecurity and Networks']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: cybersecurity-compliance-framework.jpeg
   alt: 'Credits: Image by Freepik'

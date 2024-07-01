@@ -4,7 +4,7 @@ title: 'Final Project: Creating a Company Culture for Security Design Document'
 date: 2022-10-13 20:48:00 +0500
 tags: ['google it support/IT Security: Defense against the Digital Dark Arts']
 category: ['My Notes', 'IT Support and Cloud Fundamentals']
-img_path: /assets/notes
+media_subpath: /assets/notes
 image:
   path: creating-a-company-culture-for-security-design-document.jpeg
   alt: 'Credits: Image by 8photo on Freepik'
