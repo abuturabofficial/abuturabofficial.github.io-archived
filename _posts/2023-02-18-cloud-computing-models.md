@@ -217,7 +217,7 @@ published: true
 - Businesses with fluctuating capacity and resourcing needs.
 - Build secondary infrastructures for disaster recovery, data protection, and business continuity.
 - Cloud storage and data management services for greater accessibility, easy distribution, and backing up their data.
-- IT departments are outsourcing the management of less critical and standardized business platforms and applications to public cloud provides.
+- IT departments are outsourcing the management of less critical and standardized business platforms and applications to public cloud providers.
 
 ### **Private Cloud**
   
