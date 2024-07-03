@@ -22,7 +22,7 @@ published: true
 - Getting information
   - `whoami` – username
   - `id` – user ID and group ID
-  - `unmae` – operating system name
+  - `uname` – operating system name
   - `ps` – running processes
   - `top` – resource usage
   - `df` – mounted file systems
