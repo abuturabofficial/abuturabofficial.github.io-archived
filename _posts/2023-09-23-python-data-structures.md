@@ -52,7 +52,7 @@ published: true
 - List can nest other lists and tuples
 - We can combine lists
 - List can be extended with `extend()` method
-- `append.()` adds only one element to the List, if we append `L.append([1,2,3,4]`, the List “L” will be:
+- `append.()` adds only one element to the List, if we append `L.append([1,2,3,4])`, the List “L” will be:
   
   ```py
   L = ["Michael Jackson", 10.1, 1982,[1,2,3,4]]
@@ -121,7 +121,7 @@ published: true
 
 ### Sets: Mathematical Expression
 
-- To find the intersection of the sets elements present in the both sets), `set1 & set2` or `set1.intersetion(set2)`
+- To find the intersection of the sets elements present in the both sets), `set1 & set2` or `set1.intersection(set2)`
   
 ![Python data Structures](Python%20Data%20Structures-11.png){: w="650" h="350"}
 
