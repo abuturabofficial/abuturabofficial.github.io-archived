@@ -1,4 +1,7 @@
-# Chirpy Starter
+# Archival Notice
+I have moved to a hugo based website which can be accessed at **https://cyberfront.me** for blogs. For my notes go-to **https://wiki.cyberfront.me**
+
+## Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
